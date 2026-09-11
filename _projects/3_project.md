@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Speech Emotion Recognition
+title: Speech Emotion Recognition Using Machine Learning
 description: Audio processing and Machine Learning classification on the RAVDESS dataset.
 img: assets/img/immagine_emozioni.jpg
 importance: 3
