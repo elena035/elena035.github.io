@@ -14,4 +14,4 @@ category: Machine Learning
 * Ensured robust, unbiased model evaluation through a strictly gender-balanced, speaker-independent Nested Group K-Fold cross-validation protocol.
 * **Result:** Built a Hybrid SVM classifier that successfully disentangles highly ambiguous, low-arousal emotional clusters, significantly outperforming the rigid decision boundaries of the Random Forest benchmark.
 
-[📄 Read the full Paper](/assets/pdf/DDA_personal_project_Elena_Serafino.pdf)
+[📄 Read the full Paper](/assets/pdf/Speech_Emotion_Recognition.pdf)
