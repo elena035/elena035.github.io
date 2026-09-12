@@ -8,6 +8,8 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: true
+  more_info: >
+    <a href="mailto:serafinoelena03@gmail.com">serafinoelena03@gmail.com</a>
 
 selected_papers: false
 social: false
