@@ -14,4 +14,4 @@ category: Advanced Statistics
 * Investigated the 2016-2017 Amatrice seismic swarm utilizing the Fisher-Shannon Information Plane.
 * Demonstrated that mainshocks act as impulsive singularities, driving the fault system from a stochastic, memoryless state (characterized by high Shannon Entropy) to a highly organized structure (high Fisher Information).
 
-[📄 Read the full Paper](/assets/pdf/Extreme_Value_Theory_and_Information_Dynamics_of_Seismicity_in_Central_Southern_Italy.pdf)}
+[📄 Read the full Paper](/assets/pdf/Extreme_Value_Theory_and_Information_Dynamics_of_Seismicity_in_Central_Southern_Italy.pdf)
