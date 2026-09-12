@@ -7,8 +7,8 @@ subtitle: "" # Lasciato vuoto, ma puoi scriverci qualcosa come "MSc in Physics @
 profile:
   align: right
   image: prof_pic.jpg # Assicurati che la tua foto si chiami esattamente così e sia dentro la cartella assets/img/
-  image_circular: false # Cambia in "true" se preferisci che la foto sia ritagliata a cerchio
-  more_info: >
+  image_circular: true # Cambia in "true" se preferisci che la foto sia ritagliata a cerchio
+  # more_info: >
     # Se in futuro vorrai aggiungere del testo sotto la foto (es. città o email), scrivi qui togliendo il cancelletto.
 
 # Abbiamo disattivato le sezioni seguenti impostandole su "false". 
