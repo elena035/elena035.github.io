@@ -1,5 +1,4 @@
 ---
----
 layout: page
 title: Global Value Chain Network Analysis
 description: Exploratory topological analysis of product-level economic networks using FactSet data.
