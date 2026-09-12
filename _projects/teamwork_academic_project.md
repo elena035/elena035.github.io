@@ -15,4 +15,4 @@ category: Data Analysis
 * **Result:** Achieved high predictive accuracy over a 15-day horizon with mathematically bounded and stable 95% confidence intervals, successfully preventing the divergence of forecast variance.
 * Evaluated the model's physical limitations by stress-testing it against unmodeled exogenous shocks, such as the severe 2012 European cold wave and structural holiday shifts.
 
-[📄 Read the full Paper](/assets/pdf/polish_power_system_DDA.pdf) %}
+[📄 Read the full Paper](/assets/pdf/Polish_Power_Systems_Dynamics.pdf)
