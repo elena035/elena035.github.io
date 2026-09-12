@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A collection of my academic and university projects.
+description: A collection of my university projects.
 nav: true
 nav_order: 1
 horizontal: false
