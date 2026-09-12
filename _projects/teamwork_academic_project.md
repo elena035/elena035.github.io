@@ -2,7 +2,7 @@
 layout: page
 title: Power Grid Time Series Forecasting
 description: Hybrid EMD-SARIMA predictive modeling on the Polish power system.
-img: assets/img/immagine_rete_elettrica.jpg
+img: assets/img/immagine_rete_elettrica.png
 importance: 4
 category: Data Analysis
 ---
