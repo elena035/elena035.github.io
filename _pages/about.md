@@ -2,30 +2,25 @@
 layout: about
 title: about
 permalink: /
-subtitle: "" # Lasciato vuoto, ma puoi scriverci qualcosa come "MSc in Physics @ Tor Vergata" se vuoi.
+subtitle: ""
 
 profile:
   align: right
-  image: prof_pic.jpg # Assicurati che la tua foto si chiami esattamente così e sia dentro la cartella assets/img/
-  image_circular: true # Cambia in "true" se preferisci che la foto sia ritagliata a cerchio
-  # more_info: >
-    # Se in futuro vorrai aggiungere del testo sotto la foto (es. città o email), scrivi qui togliendo il cancelletto.
+  image: prof_pic.jpg
+  image_circular: true
 
-# Abbiamo disattivato le sezioni seguenti impostandole su "false". 
-# In questo modo non si vedranno, ma il codice rimane pronto per il futuro.
-selected_papers: false 
-
-social: true # Questo lo lasciamo su "true" per mostrare le icone in fondo alla pagina
+selected_papers: false
+social: true
 
 announcements:
-  enabled: false 
-  scrollable: true 
-  limit: 5 
+  enabled: false
+  scrollable: true
+  limit: 5
 
 latest_posts:
   enabled: false
-  scrollable: true 
-  limit: 3 
+  scrollable: true
+  limit: 3
 ---
 
 I am currently completing my MSc in Physics—specializing in Complex Systems & Big Data—at the University of Rome Tor Vergata. My academic path is driven by a strong interest in quantitative data analysis, mathematical modeling, and computational physics.
