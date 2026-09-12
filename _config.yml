@@ -28,18 +28,17 @@ back_to_top: true # set to false to disable the back to top button
 # -----------------------------------------------------------------------------
 # Social network usernames
 # -----------------------------------------------------------------------------
-# Qui ho attivato solo la tua mail. Gli altri sono stati disattivati dal cancelletto (#)
 email: "serafinoelena03@gmail.com"
 
-# linkedin_username: "tuo-profilo"
-# github_username: "elena035"
-# scholar_userid: ""
-# wechat_qr: ""
-# rss_icon: false
-# orcid_id: ""
-# x_username: ""
-# mastodon_username: ""
-# research_gate_profile: ""
+linkedin_username: ""
+github_username: ""
+scholar_userid: ""
+wechat_qr: ""
+rss_icon: false
+orcid_id: ""
+x_username: ""
+mastodon_username: ""
+research_gate_profile: ""
 
 # -----------------------------------------------------------------------------
 # Theme
