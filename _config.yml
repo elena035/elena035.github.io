@@ -30,15 +30,15 @@ back_to_top: true # set to false to disable the back to top button
 # -----------------------------------------------------------------------------
 email: "serafinoelena03@gmail.com"
 
-linkedin_username: ""
-github_username: ""
-scholar_userid: ""
-wechat_qr: ""
+linkedin_username: false
+github_username: false
+scholar_userid: false
+wechat_qr: false
 rss_icon: false
-orcid_id: ""
-x_username: ""
-mastodon_username: ""
-research_gate_profile: ""
+orcid_id: false
+x_username: false
+mastodon_username: false
+research_gate_profile: false
 
 # -----------------------------------------------------------------------------
 # Theme
