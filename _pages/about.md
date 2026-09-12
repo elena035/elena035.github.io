@@ -9,8 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: true
   more_info: >
-    <a href="mailto:serafinoelena03@gmail.com">serafinoelena03@gmail.com</a>
-
+    <i class="fas fa-envelope"></i> <a href="mailto:serafinoelena03@gmail.com">serafinoelena03@gmail.com</a>
+    
 selected_papers: false
 social: false
 
