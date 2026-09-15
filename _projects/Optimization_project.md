@@ -20,6 +20,8 @@ category: Presentation
   <i class="fab fa-github"></i> View the full Repository on GitHub
 </a>
 
-<div class="row justify-content-sm-center mt-4">
-    <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRhAnrug-EeuPJF1Tioo7tzQrngTUxa8bCiT4Rb5vPOCqQwRqoPrL1_sv-Jq_pklrRhXPCNgN19CFnr/pubembed?start=true&loop=false&delayms=3000" frameborder="0" width="100%" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-</div>
+<br><br>
+
+<a href="https://docs.google.com/presentation/d/e/2PACX-1vRhAnrug-EeuPJF1Tioo7tzQrngTUxa8bCiT4Rb5vPOCqQwRqoPrL1_sv-Jq_pklrRhXPCNgN19CFnr/pub?start=true&loop=false&delayms=3000" target="_blank">
+  <i class="fab fa-google-drive"></i> View the Google Slides Presentation
+</a>
