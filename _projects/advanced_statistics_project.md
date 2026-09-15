@@ -25,3 +25,9 @@ category: Advanced Statistics
 <a href="{{ site.baseurl }}/assets/pdf/Extreme_Value_Theory_and_Information_Dynamics_of_Seismicity_in_Central_Southern_Italy.pdf" target="_blank">
   📄 Read the full Paper
 </a>
+
+<br><br>
+
+<a href="https://docs.google.com/presentation/d/e/2PACX-1vTZm7GKwIVfnSrYc5NweYtq88diyR-dfvj7Re2MQ2qHkQCepPRfCAcrutqMP_sNcNughq9330hWIL52/pub?start=false&loop=false&delayms=3000" target="_blank">
+  <i class="fab fa-google-drive"></i> View the Google Slides Presentation
+</a>
