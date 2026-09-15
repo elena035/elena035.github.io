@@ -2,7 +2,7 @@
 layout: page
 title: Parallel 2D Ising Model Simulation
 description: High-Performance Computing implementation and thermodynamic analysis of the 2D Ising model phase transition.
-img: assets/img/immagine_ising.jpg
+img: assets/img/immagine_ising.png
 importance: 4
 category: Computational Physics
 ---
