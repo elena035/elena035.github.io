@@ -16,7 +16,7 @@ category: Advanced Statistics
 
 <br>
 
-<a href="https://github.com/elena035/statistical-anaysis-of-seismic-data" target="_blank">
+<a href="https://github.com/elena035/statistical-analysis-of-seismic-data" target="_blank">
   <i class="fab fa-github"></i> View the full Repository on GitHub
 </a>
 
