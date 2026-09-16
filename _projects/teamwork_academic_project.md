@@ -15,4 +15,10 @@ category: Data Analysis
 * **Result:** Achieved high predictive accuracy over a 15-day horizon with mathematically bounded and stable 95% confidence intervals, successfully preventing the divergence of forecast variance.
 * Evaluated the model's physical limitations by stress-testing it against unmodeled exogenous shocks, such as the severe 2012 European cold wave and structural holiday shifts.
 
+<br><br>
+
+<a href="https://github.com/elena035/Lab_experiences_DDA/tree/main/Exp2_Polish_Power_Load" target="_blank">
+  <i class="fab fa-github"></i> View the Project Folder on GitHub
+</a>
+
 [📄 Read the full Paper](/assets/pdf/Polish_Power_Systems_Dynamics.pdf)
