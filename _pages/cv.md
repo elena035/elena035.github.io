@@ -9,4 +9,4 @@ description: View and download my Curriculum Vitae.
 ---
 
 <!-- Questo codice incorpora il PDF direttamente al centro della pagina web -->
-<embed src="/assets/pdf/cv.pdf" width="100%" height="800px" type="application/pdf">
+<embed src="/assets/pdf/cv_italiano.pdf" width="100%" height="800px" type="application/pdf">
